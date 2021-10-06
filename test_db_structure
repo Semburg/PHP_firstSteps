@@ -1,0 +1,17 @@
+- Database - test_db
+    - articles
+        -id
+        -titel
+        -text
+        -categorie_id
+        -pubdate
+        -views
+    - article_Categories
+        -id
+        -topic
+    - comments
+        -id
+        -author
+        -text
+        -pubdate
+        -articles_id
